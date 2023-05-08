@@ -154,7 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) 
+Alexa Orrico - [Github](https://github.com/alexaorrico)
+  
 Precious Ugochi -[Github](https://github.com/kate-codec)
   
   
